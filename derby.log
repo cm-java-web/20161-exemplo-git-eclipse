@@ -1,0 +1,10 @@
+----------------------------------------------------------------
+Sun Mar 20 12:02:40 BRT 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.9.1.0 - (1344872): instance a816c00e-0153-948c-a99a-00000b73b730 
+on database directory memory:/Users/brunopenha/Documents/java/workspaces/aulas/exemplo-mapeamentoOER-ejb/cmJavaJPADB  with class loader sun.misc.Launcher$AppClassLoader@14dad5dc 
+Loaded from file:/Users/brunopenha/Documents/java/workspaces/aulas/exemplo-mapeamentoOER-ejb/lib/derby-10.9.1.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_65-b17
+user.dir=/Users/brunopenha/Documents/java/workspaces/aulas/exemplo-mapeamentoOER-ejb
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
